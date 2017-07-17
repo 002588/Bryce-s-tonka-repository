@@ -41,9 +41,11 @@ img {
   margin: auto;
   width: 40%;
   p.groove {border-style: groove;}
+  float: right;
 }
 
 p {
   font-size: 18px;
   font-family: "Courier New";
+  float: left;
 }
